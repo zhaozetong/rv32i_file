@@ -1,21 +1,11 @@
 # 所有的一般可执行文件
 /*
-#/*根目录下的任意文件(不包括文件夹), 
+#/*根目录下的任意文件(包括文件夹), 
 # /**任意深度的文件夹 功能强大
 !/.gitignore
 !README.md
 # 默认为根目录
 !*.asm
-# 上传根目录asm文件
-# KeilIDE编辑器忽略项
-/**/MDK-ARM/*
 
-# armgcc-cmake工程忽略项
-/**/cmake-build-debug
-
-# VsCode编辑器忽略项
-/**/.vscode
-/**/workspace.code-workspace
-
-# Clion编辑器忽略项
-/**/.idea
+!/*/
+# 不忽略文件夹

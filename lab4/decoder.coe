@@ -1,0 +1,18 @@
+inst = 32'h00208063;
+#20;
+inst = 32'hfe311ee3;
+#20;
+inst = 32'hfe41cce3;
+#20;
+inst = 32'hfe525ae3;
+#20;
+inst = 32'hfe62e8e3;
+#20;
+inst = 32'hfe63e6e3;
+#20;
+inst = 32'hfe9ff06f;
+#20;
+inst = 32'hfe5ff0ef;
+#20;
+inst = 32'h00018167;
+#20;
